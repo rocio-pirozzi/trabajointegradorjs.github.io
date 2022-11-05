@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+  
+
+
+.navegadorbottom{
+  width: 100%;
+  justify-content: center;
+  margin: 0%;
+  padding: 0%;
+  text-align: center;
+}
+
+.navabajo {
+  background: rgb(29,55,68);
+  background: linear-gradient(90deg, rgba(29,55,68,1) 0%, rgba(29,70,92,1) 35%, rgba(30,83,114,1) 100%);
+  color: white;
+  justify-content: center;
+  height: 80px;
+  width: 100%;
+  text-align: center;
+  padding-top: 30px;
+
+}
+
+.link2 {
+  padding: 20px;
+  justify-content: center;
+  text-decoration: none;
+  color: white;
+}
+
+
